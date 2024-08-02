@@ -1,10 +1,18 @@
-@charset "UTF-8";
-/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Gloria+Hallelujah&display=swap');
 
-@import url("//hello.myfonts.net/count/3d8f44");
-  
-@font-face {
-  font-family: "CrayonCrumble-Regular";
-  src: url('../webFonts/CrayonCrumbleRegular/font.woff2') format('woff2'), url('../webFonts/CrayonCrumbleRegular/font.woff') format('woff');
+html{
+    font-family: "Gloria Hallelujah", cursive;
+    text-align: center;
+    background-image: url(moana\ bb.jpg);
+    background-size: cover;
 }
+
+.Moana{
+    text-align: center;
+} 
+
+.poster{
+    text-align: right;
+}
+
 
